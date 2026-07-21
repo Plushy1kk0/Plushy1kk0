@@ -1,4 +1,4 @@
-<img align="center" img src="https://files.catbox.moe/bszgmk.png" width=900 height:300/>
+<img align="center" img src="https://files.catbox.moe/bszgmk.png" width=800 height:300/>
 
 <img align="left" img src="https://files.catbox.moe/76sd5h.png" width=350/> <!-- noelle and susie table-->
 
@@ -6,11 +6,9 @@
 </a> <!-- WELCOME TEXT -->
 
 
-<div align="left">
+<div align="center">
 txt txt txt txt txt txt txt txt txt txt txt txt txt txt txt txt txt txt txt txt txt txt 
 <br>
 link , link , link
 </div>
 
-
-bruh
