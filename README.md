@@ -7,14 +7,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Crafty+Girls&size=39&pause=1000&color=F77F30&repeat=false&width=210&height=60&lines=Welcome+!" alt="Typing SVG"/>
 </a> <!-- WELCOME TEXT -->
 
+<div align="left">
  <table>
   <tr>
     <th>
-      $\color{c49927}\normalsize{\texttt{hewwo hewwo hewwwwwoo!!}}$ <br>
+      $\color{#eadfb3}\huge{\texttt{Haii I'm}}$
+     $\color{#a00603}\huge{\texttt{Ikko!}}$ <br>
+     $\color{#eadfb3}\huge{\texttt{you can also call me Ruby / Rury / Ikkoyo.}}$ <br>
+      $\color{#eadfb3}\huge{\texttt{I’m lesbian, and I use she/her}}$
     </th>
   </tr>
   </table>
-
+ </div>
 
 <img align="center" img src="https://64.media.tumblr.com/367e770242a3ea77186f2e127d7b15fa/8dc2d25f1ed5754d-6c/s2048x3072/ec722f0c9a6173b1aa4a76bf73d965d0ef04bd14.pnj" alt="Header" width="1000" height="50"/> <!-- button border-->
 
@@ -34,5 +38,10 @@ txt
   </summary>
 txt
 </details> <!--DNI-->
+
 </html>
 </body>
+
+
+
+
