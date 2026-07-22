@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Crafty+Girls&size=39&duration=3000&pause=1000&color=E0801A&vCenter=true&repeat=false&width=210&height=60&lines=Welcome+!" alt="Typing SVG" /> </a> 
 <!-- WELCOME TEXT -->
 
-<div align="left">
+<div align="center">
  <table>
   <tr>
     <th>
