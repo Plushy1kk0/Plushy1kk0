@@ -37,7 +37,7 @@
 
 <img align="center" img src="https://64.media.tumblr.com/367e770242a3ea77186f2e127d7b15fa/8dc2d25f1ed5754d-6c/s2048x3072/ec722f0c9a6173b1aa4a76bf73d965d0ef04bd14.pnj" alt="Header" width="1000" height="60"/> <!-- button border-->
 
-<img align="right" img src="https://files.catbox.moe/o5yboi.png" width="350"/> <!-- NOELLE AND SUSIE TREE-->
+ <div align="left">
 <details>
   <summary>
   ${{\color{#c0431f}\huge{\texttt{Interests!}}}}$ <img src="https://gifcity.carrd.co/assets/images/gallery03/86ec2fb8.gif?v=3fc8f5cd"/>
@@ -49,11 +49,10 @@ ${{\color{#eadfb3}\huge{\texttt{listening to my favorite music artists}}}}$ <br>
  <img align="" img src="https://gifcity.carrd.co/assets/images/gallery88/2baf10bc.gif?v=3fc8f5cd"/>
 ${{\color{#eadfb3}\huge{\texttt{i love watching icebergs and unsolved cases on the internet!}}}}$ <br>
 </details> <!--INTERESTS-->
+  
 
 
-<img align="center" img src="https://64.media.tumblr.com/367e770242a3ea77186f2e127d7b15fa/8dc2d25f1ed5754d-6c/s2048x3072/ec722f0c9a6173b1aa4a76bf73d965d0ef04bd14.pnj" alt="Header" width="1000" height="60"/> <!-- button border-->
-
-<img align="left" img src="https://files.catbox.moe/2h6o5y.png" width="350"/> <!-- NOELLE CHECKING THE FIT -->
+<div align="right">
 <details>
   <summary>
     ${{\color{#c0431f}\huge{\texttt{DNI!}}}}$ <img src="https://gifcity.carrd.co/assets/images/gallery03/32e9614e.gif?v=3fc8f5cd"/>
@@ -69,10 +68,12 @@ ${{\color{#eadfb3}\huge{\texttt{HOMOPHOBES}}}}$ <br>
  <img align="" img src="https://gifcity.carrd.co/assets/images/gallery275/f32ae525.gif?v=3fc8f5cd"/>
 ${{\color{#eadfb3}\huge{\texttt{RACIST}}}}$ <br>
 </details> <!--DNI-->
+</div>
 
-
-
-
+ </div>
+<div align="center">
+<img align="center" img src="https://files.catbox.moe/o5yboi.png" width="350"/> <!-- NOELLE AND SUSIE TREE-->
+</div>
 
 <img align="center" img src="https://files.catbox.moe/er0lih.png" alt="Header" width="1000"/> <!--APPLE ENDING BORDER-->
 
