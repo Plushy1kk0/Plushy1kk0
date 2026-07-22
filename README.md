@@ -42,9 +42,13 @@
   <summary>
   ${{\color{#c0431f}\huge{\texttt{Interests!}}}}$ <img src="https://gifcity.carrd.co/assets/images/gallery03/86ec2fb8.gif?v=3fc8f5cd"/>
   </summary>
+<img align="" img src=""> 
 ${{\color{#eadfb3}\huge{\texttt{i enjoy playing games!}}}}$ <br>
+ <img align="" img src="">
 ${{\color{#eadfb3}\huge{\texttt{and listening to my favorite music artists}}}}$ <br>
+ <img align="" img src="">
 ${{\color{#eadfb3}\huge{\texttt{i also love watching icebergs}}}}$ <br>
+ <img align="" img src="">
 ${{\color{#eadfb3}\huge{\texttt{and unsolved cases on the internet!}}}}$
 </details> <!--INTERESTS-->
 
@@ -56,10 +60,15 @@ ${{\color{#eadfb3}\huge{\texttt{and unsolved cases on the internet!}}}}$
   <summary>
     ${{\color{#c0431f}\huge{\texttt{DNI!}}}}$ <img src="https://gifcity.carrd.co/assets/images/gallery03/32e9614e.gif?v=3fc8f5cd"/>
   </summary>
+ <img align="" img src="">
 ${{\color{#eadfb3}\huge{\texttt{PEDOPHILES}}}}$ <br>
+ <img align="" img src="">
 ${{\color{#eadfb3}\huge{\texttt{ZOOPHILES}}}}$ <br>
+ <img align="" img src="">
 ${{\color{#eadfb3}\huge{\texttt{INCEST}}}}$ <br>
+ <img align="" img src="">
 ${{\color{#eadfb3}\huge{\texttt{HOMOPHOBES}}}}$ <br>
+ <img align="" img src="">
 ${{\color{#eadfb3}\huge{\texttt{RACIST}}}}$ <br>
 </details> <!--DNI-->
 
