@@ -49,8 +49,8 @@ ${{\color{#eadfb3}\huge{\texttt{listening to my favorite music artists}}}}$ <br>
  <img align="" img src="https://gifcity.carrd.co/assets/images/gallery88/2baf10bc.gif?v=3fc8f5cd"/>
 ${{\color{#eadfb3}\huge{\texttt{i love watching icebergs and unsolved cases on the internet!}}}}$ <br>
 </details> <!--INTERESTS-->
-  
-
+ <img align="" img src="https://files.catbox.moe/9qwjn5.png" width="100"/> <!-- HEARTPATCH IMAGE-->
+ </div>
 
 <div align="right">
 <details>
@@ -68,12 +68,29 @@ ${{\color{#eadfb3}\huge{\texttt{HOMOPHOBES}}}}$ <br>
  <img align="" img src="https://gifcity.carrd.co/assets/images/gallery275/f32ae525.gif?v=3fc8f5cd"/>
 ${{\color{#eadfb3}\huge{\texttt{RACIST}}}}$ <br>
 </details> <!--DNI-->
+<img align="" img src="https://files.catbox.moe/m3c656.png" width="200"/> <!-- FLOWERPOWER IMAGE-->
 </div>
+
 
  </div>
 <div align="center">
 <img align="center" img src="https://files.catbox.moe/o5yboi.png" width="350"/> <!-- NOELLE AND SUSIE TREE-->
 </div>
+
+<div align="left">
+<details>
+  <summary>
+    ${{\color{#c0431f}\huge{\texttt{BYF...}}}}$ <img src="https://gifcity.carrd.co/assets/images/gallery03/32e9614e.gif?v=3fc8f5cd"/>
+  </summary>
+ <img align="" img src="https://gifcity.carrd.co/assets/images/gallery02/e899cfb0.gif?v=3fc8f5cd"/>
+${{\color{#eadfb3}\huge{\texttt{i get annoyed very easily especially when i dont want to do something}}}}$ <br>
+ <img align="" img src="https://gifcity.carrd.co/assets/images/gallery02/e899cfb0.gif?v=3fc8f5cd"/>
+${{\color{#eadfb3}\huge{\texttt{i'm very hypersexual!}}}}$ <br>
+ <img align="" img src="https://gifcity.carrd.co/assets/images/gallery02/e899cfb0.gif?v=3fc8f5cd"/>
+${{\color{#eadfb3}\huge{\texttt{i'm also very sensitive so i get upset very easily}}}}$ <br>
+</details> <!--BEFORE U FOLLOW!!!!!!!!!!-->
+</div>
+
 
 <img align="center" img src="https://files.catbox.moe/er0lih.png" alt="Header" width="1000"/> <!--APPLE ENDING BORDER-->
 
